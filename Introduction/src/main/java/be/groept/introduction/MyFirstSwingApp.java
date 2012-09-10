@@ -32,6 +32,7 @@ public class MyFirstSwingApp {
 		});
 	}
 //coment
+	// comment 2
 	/**
 	 * Create the application.
 	 */
